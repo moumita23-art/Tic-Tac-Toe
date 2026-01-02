@@ -1,0 +1,6 @@
+
+{
+  "name": "Tic Tac Toe",
+  "description": "A modern, highly polished Tic-Tac-Toe game featuring a Minimax-powered AI, responsive glassmorphism UI, and smooth animations.",
+  "requestFramePermissions": []
+}
